@@ -17,14 +17,8 @@ A web-based app to manage company inventory, track stock in/out, and generate re
 2. `cd frontend && npm install && npm start`
 3. `cd backend && npm install && npm start`
 
-## Screenshots
-![Dashboard Wireframe](docs/wireframes/dashboard.png)
 
-## Documentation
-- [Requirements](docs/requirements.md)
-- [User Stories](docs/user-stories.md)
-- [Meeting Notes](docs/meeting-notes.md)
-- [Project Timeline](docs/project-timeline.png)
+
 
 ## License
 MIT
